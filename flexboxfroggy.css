@@ -1,0 +1,175 @@
+/* https://flexboxfroggy.com/ */
+
+/* 1 */
+#pond {
+    display: flex;
+    justify-content: flex-end; /* Answer */
+  }
+
+/* 2 */
+#pond {
+    display: flex;
+    justify-content: center; /* Answer */
+  }
+
+/* 3 */
+#pond {
+    display: flex;
+    justify-content: space-around; /* Answer */
+  }
+
+/* 4 */
+#pond {
+    display: flex;
+    justify-content: space-between; /* Answer */
+  }
+
+/* 5 */
+#pond {
+    display: flex;
+    align-items: flex-end; /* Answer */
+  }
+
+/* 6 */
+#pond {
+    display: flex;
+    justify-content: center; /* Answer */
+    align-items: center; /* Answer */
+  }
+
+/* 7 */
+#pond {
+    display: flex;
+    justify-content: space-around; /* Answer */
+    align-items: flex-end; /* Answer */
+  }
+
+/* 8 */
+#pond {
+    display: flex;
+    flex-direction: row-reverse; /* Answer */
+  }
+
+/* 9 */
+#pond {
+    display: flex;
+    flex-direction: column; /* Answer */
+  }
+
+/* 10 */
+#pond {
+    display: flex;
+    flex-direction: row-reverse; /* Answer */
+    justify-content: flex-end; /* Answer */
+  }
+
+/* 11 */
+#pond {
+    display: flex;
+    flex-direction: column; /* Answer */
+    justify-content: flex-end; /* Answer */
+  }
+
+/* 12 */
+#pond {
+    display: flex;
+    flex-direction: column-reverse; /* Answer */
+    justify-content: space-between; /* Answer */
+  }
+
+/* 13 */
+#pond {
+    display: flex;
+    align-items: flex-end; /* Answer */
+    justify-content: center; /* Answer */
+    flex-direction: row-reverse; /* Answer */
+  }
+
+/* 14 */
+#pond {
+    display: flex;
+  }
+  
+  .yellow {
+    order: 1; /* Answer */
+  }
+
+/* 15 */
+#pond {
+    display: flex;
+  }
+  
+  .red {
+    order: -1; /* Answer */
+  }
+
+/* 16 */
+#pond {
+    display: flex;
+    align-items: flex-start;
+  }
+  
+  .yellow {
+    align-self: flex-end; /* Answer */
+  }
+
+/* 17 */
+#pond {
+    display: flex;
+    align-items: flex-start;
+  }
+  
+  .yellow {
+    align-self: flex-end; /* Answer */
+    order: 1; /* Answer */
+  }
+
+/* 18 */
+#pond {
+    display: flex;
+    flex-wrap: wrap; /* Answer */
+  }
+
+/* 19 */
+#pond {
+    display: flex;
+    flex-direction: column; /* Answer */
+    flex-wrap: wrap; /* Answer */
+  }
+
+/* 20 */
+#pond {
+    display: flex;
+    flex-flow: column wrap; /* Answer */
+  }
+
+/* 21 */
+#pond {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start; /* Answer */
+  }
+
+/* 22 */
+#pond {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-end; /* Answer */
+  }
+
+/* 23 */
+#pond {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column-reverse; /* Answer */
+    align-content: center; /* Answer */
+  }
+
+/* 24  */
+#pond {
+    display: flex;
+    flex-direction: column-reverse; /* Answer */
+    flex-wrap: wrap-reverse; /* Answer */
+    justify-content: center; /* Answer */
+    align-content: space-between; /* Answer */
+  }
